@@ -1,0 +1,74 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.chitubox.root</Name>
+  <DisplayName>ChituBoxBasic</DisplayName>
+  <Description>This is ChituBoxBasic installer</Description>
+  <Version>2.0.0</Version>
+  <ReleaseDate>2023-07-12</ReleaseDate>
+  <Default>true</Default>
+  <ForcedInstallation>true</ForcedInstallation>
+  <RequiresAdminRights>true</RequiresAdminRights>
+  <Script>RootScript.js</Script>
+  <UpdateFile CompressedSize="332731213" UncompressedSize="590632000" OS="Any"/>
+  <DownloadableArchives>Conf.7z,DownLoad.7z,geometryloaders.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforminputcontexts.7z,platforms.7z,position.7z,qmltooling.7z,Qt.7z,Qt5Compat.7z,QtMultimedia.7z,QtQml.7z,QtQuick.7z,QtQuick3D.7z,QtTest.7z,QtWebChannel.7z,QtWebEngine.7z,renderers.7z,renderplugins.7z,sceneparsers.7z,script.7z,sqldrivers.7z,styles.7z,tls.7z,translations.7z,virtualkeyboard.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License name="chitubox License" file="LICENSE.txt"/>
+  </Licenses>
+  <SHA1>270e57c7c3201413f46dc4ff4d46e3b991790755</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.chitubox.root.driver</Name>
+  <DisplayName>chitubox driver</DisplayName>
+  <Description>This is ChituBoxBasic driver</Description>
+  <Version>2.0.0</Version>
+  <ReleaseDate>2023-07-12</ReleaseDate>
+  <Default>true</Default>
+  <RequiresAdminRights>true</RequiresAdminRights>
+  <UpdateFile CompressedSize="122430" UncompressedSize="356904" OS="Any"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>f02009023d25d943264cae53872c358e8056f807</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.chitubox.root.kernel</Name>
+  <DisplayName>chitubox kernel</DisplayName>
+  <Description>This is ChituBoxBasic kernel</Description>
+  <Version>2.0.0</Version>
+  <ReleaseDate>2023-07-12</ReleaseDate>
+  <Default>true</Default>
+  <RequiresAdminRights>true</RequiresAdminRights>
+  <UpdateFile CompressedSize="1781338" UncompressedSize="6339112" OS="Any"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>6fecb3fb0754536b5b908588b29941d862f93b9e</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.chitubox.root.model</Name>
+  <DisplayName>chitubox model</DisplayName>
+  <Description>This is ChituBoxBasic model</Description>
+  <Version>2.0.0</Version>
+  <ReleaseDate>2023-07-12</ReleaseDate>
+  <Default>true</Default>
+  <RequiresAdminRights>true</RequiresAdminRights>
+  <UpdateFile CompressedSize="600211" UncompressedSize="1797672" OS="Any"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>17dfefa5a86628b96dc6ab384dbd1ef0aa18a2e0</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.chitubox.root.resource</Name>
+  <DisplayName>chitubox resource</DisplayName>
+  <Description>This is ChituBoxBasic resource</Description>
+  <Version>2.0.0</Version>
+  <ReleaseDate>2023-07-12</ReleaseDate>
+  <Default>true</Default>
+  <RequiresAdminRights>false</RequiresAdminRights>
+  <Script>ResourceScript.js</Script>
+  <Control>C:/Users/soft/AppData/Local/CHITUBOX</Control>
+  <UpdateFile CompressedSize="173676249" UncompressedSize="682765835" OS="Any"/>
+  <DownloadableArchives>Resources.7z</DownloadableArchives>
+  <SHA1>f5892d28567db024687576543eda4d50bb0f75a7</SHA1>
+ </PackageUpdate>
+ <SHA1>b7ad9e424870ebc31fb237dab188e0e33578d99b</SHA1>
+ <MetadataName>2023-07-17-1159_meta.7z</MetadataName>
+</Updates>
